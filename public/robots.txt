@@ -1,0 +1,8 @@
+User-agent: sparkleup
+Disallow: https://www.sparkleup.us/account/bookings
+
+User-agent: *
+Allow: https://www.sparkleup.us/
+
+
+Sitemap: https://www.sparkleup.us/sitemap.xml
